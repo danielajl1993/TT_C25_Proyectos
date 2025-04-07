@@ -8,3 +8,7 @@ Desarrollamos habilidades de Python básico como:
 - Manejo de listas y listas anidadas
 - Bucles
 - Condicionales
+
+## Sprint 2: Python Básico 2.
+Utilizamos la libreria Pandas para leer y procesar datos.
+Además creamos funciones, aprendimos a utilizar métodos de agregación
