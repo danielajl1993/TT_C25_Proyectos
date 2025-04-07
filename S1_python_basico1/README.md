@@ -1,3 +1,2 @@
 # Proyecto 1
-
-Hicimos algunas cosas que no recuerdo bien
+En este proyecto hicimos varios ejercicios de una ecommerce
